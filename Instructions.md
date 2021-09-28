@@ -7,7 +7,7 @@
 4. Go to the link provided by TAs. Find and click onto your student id. Please be careful to click your id exactly. `Authorize github` and `Accept this assignment`.
 5. After a minute, refresh the page and you should see a URL for your repository. Copy that URL.
 6. Go to replit.com. From the left menu, click "Create repl" and select `Import from Github` option from the top right part of the box. 
-7. Paste the URL that you copied to left box and click `Import from Github`. **Important: Please do not touch the button `Repl is private`.**
+7. Paste the URL that you copied to left box and click `Import from Github`. **Important: Please make the repl private by using button near `Repl is private`.**
 8. After you do the previous steps, you should arrive this page.
 9. You can use the Run button on top of the page to execute a file. For that option, you need to create a `.replit` file if it does not exists already. It should contain two things: 
 - `language=python3` which will define the language that we will use (**Important: Make sure it is `python3`, not only `python`.**), 
