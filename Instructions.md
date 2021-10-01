@@ -1,6 +1,17 @@
 ## PART 0: Getting Started with Repl.it
 ### Deadline: Today!
 
+
+Link for PyCharm tutorial (Windows 10):
+https://docs.google.com/document/d/1a_CoNEAsEJHfHzJRrbOT98ndDtXQzhoT_cllQeKbJXs
+
+Link for PyCharm tutorial (MacOS
+):
+https://docs.google.com/document/d/1gq_rJEeBn6vj_SbBpTxWGSsZRmNkfsNZjscXILDyuoo
+
+Link for Dual Boot Ubuntu Installation: 
+https://docs.google.com/document/d/1vG_OKtRGwn9gh95x-1dqloWgZynJYYb5Vo9GmL6wTCQ
+
 1. Please go to https://github.com/ and create an account with your Koc University e-mail.
 2. Please go to https://repl.it/ and click `sign up`. At the top of the menu, find `Git` symbol and connect to Repl.it using your Git account.
 3. You will recieve a verification code in your e-mail. Type it and `verify`. Please hit `Authorize Repl.it Online IDE`.
